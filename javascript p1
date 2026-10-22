@@ -1,9 +1,9 @@
 // 1. Deklarasi variabel
-const nama = "Rahmat Imran";
-const nim = "05301425096";
+const nama = "A.Candra Augwancha MSH";
+const nim = "05301425104";
 let semester = 3;
 const aktif = true;
-const hobi = ["Coding", "Bermain Gitar", "Berenang"];
+const hobi = ["Modifikasi mototr", "Badminton", "Speeding"];
 
 // 2. Output ke Console
 console.log("Nama:", nama);
